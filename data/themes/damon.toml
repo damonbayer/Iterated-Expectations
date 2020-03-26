@@ -1,0 +1,21 @@
+# Theme metadata
+name = "damon"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#415A77"
+
+# Menu
+menu_text = "#333"
+menu_title = "#333"
+menu_text_active = "#586F7C"
+
+
+
+menu_primary = "#fbf9f4"
+# Backgrounds
+background = "#fbf9f4"
+home_section_odd = "#fbf9f4"
+home_section_even = "#fbf9f4"
