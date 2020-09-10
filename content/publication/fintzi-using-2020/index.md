@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jonathan Fintzi
-- Damon Bayer
+- damon
 - Isaac Goldstein
 - Keith Lumbard
 - Emily Ricotta

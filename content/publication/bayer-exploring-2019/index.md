@@ -5,7 +5,7 @@ title: Exploring the Daschle Collection using Text Mining
 subtitle: ''
 summary: ''
 authors:
-- Damon Bayer
+- damon
 - Semhar Michael
 tags:
 - '"Statistics - Applications"'
