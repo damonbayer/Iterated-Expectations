@@ -77,6 +77,6 @@ user_groups:
 - Visitors
 ---
 
-I am a second year PhD student in [statistics](https://www.stat.uci.edu) at the [University of California, Irvine](https://www.uci.edu), working on statistical methodologies for infectious diseases under the supervision of [Vladimir Minin](http://vnminin.github.io/index.html). I am also part of the data science team at [Tidepool](https://www.tidepool.org), working to make diabetes data more accessible, actionable, and meaningful for people with diabetes, their care teams, and researchers.
+I am a third year PhD student in [statistics](https://www.stat.uci.edu) at the [University of California, Irvine](https://www.uci.edu), working on statistical methodologies for infectious diseases under the supervision of [Vladimir Minin](http://vnminin.github.io/index.html). I am also part of the data science team at [Tidepool](https://www.tidepool.org), working to make diabetes data more accessible, actionable, and meaningful for people with diabetes, their care teams, and researchers.
 
 I previously earned my bachelor's and master's degrees in [mathematics and statistics](https://www.sdstate.edu/mathematics-statistics) from [South Dakota State University](https://www.sdstate.edu), where I was the [first Arnold K. Skeie E-Commerce Analytics Graduate Fellow](https://www.sdstate.edu/news/2017/01/skeie-e-commerce-scholar-and-fellow-named) and a [Daschle Student Fellow](https://www.sdstate.edu/daschle-dialogues-research-scholarships). My research focused on text data and model-based clustering.
